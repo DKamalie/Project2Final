@@ -1,0 +1,11 @@
+With regard to the Version control system, we can just find a suitable plugin instead. Doing this should make things easier and make
+things go a lot faster.
+
+Some of the plugins I've looked at are:
+
+VersionPress
+GitHub(a bit complicated though) 
+Wp Rollback
+Bedrock 
+
+We can simply google to see which is best suited for us and which is the easiest for all of us to understand.
