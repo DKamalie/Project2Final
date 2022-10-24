@@ -1,0 +1,200 @@
+<section class="elementor-section elementor-top-section elementor-element elementor-element-689dd35 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="689dd35" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e43ad80" data-id="e43ad80" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-32e2fb6 elementor-widget elementor-widget-heading" data-id="32e2fb6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Select a service...</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bacaf98 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bacaf98" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-55faf92" data-id="55faf92" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dc66b06 elementor-view-stacked elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="dc66b06" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://sas.crewde.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://sas.crewde.com/contact/#Police">
+				<i aria-hidden="true" class="far fa-folder"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<a href="https://sas.crewde.com/contact/#Police">
+						South African Police Service					</a>
+				</h4>
+									<p class="elementor-icon-box-description">
+						The mission of SAPS is to prevent and combat anything that may threaten the safety and security of any community					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-75490df" data-id="75490df" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ccd74ac elementor-view-stacked elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="ccd74ac" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://sas.crewde.com/contact/#Fire">
+				<i aria-hidden="true" class="far fa-folder"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<a href="https://sas.crewde.com/contact/#Fire">
+						Fire and Rescue Service Department					</a>
+				</h4>
+									<p class="elementor-icon-box-description">
+						The Fire and Rescue Service Department extends its work to all types of fires, medical emergencies, incidents, and hazardous material emergencies					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f794229" data-id="f794229" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c617d9f elementor-view-stacked elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="c617d9f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://sas.crewde.com/contact/#Medical">
+				<i aria-hidden="true" class="far fa-folder"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<a href="https://sas.crewde.com/contact/#Medical">
+						Medical Service					</a>
+				</h4>
+									<p class="elementor-icon-box-description">
+						Medical treatment, surgery, diagnostics, chiropractic, dental, hospital care, nursing, and ambulances are all included as well as crutches, prosthetic appliances, braces, and supports					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-073b4de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="073b4de" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-42d8011" data-id="42d8011" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4ca4a5b elementor-view-stacked elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="4ca4a5b" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://sas.crewde.com/contact/#Law">
+				<i aria-hidden="true" class="far fa-folder"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<a href="https://sas.crewde.com/contact/#Law">
+						Law Enforcement					</a>
+				</h4>
+									<p class="elementor-icon-box-description">
+						Law enforcement services in South Africa are the responsibility of the Ministry of Police					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d5c538d" data-id="d5c538d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6c11c64 elementor-view-stacked elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="6c11c64" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://sas.crewde.com/contact/#Metropolitan">
+				<i aria-hidden="true" class="far fa-folder"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<a href="https://sas.crewde.com/contact/#Metropolitan">
+						Metropolitan Police					</a>
+				</h4>
+									<p class="elementor-icon-box-description">
+						Metro police direct traffic in the event of an accident, breakdown, spillage, or when lights are out of order					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-31c6793" data-id="31c6793" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-21ac1e5 elementor-view-stacked elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="21ac1e5" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://sas.crewde.com/contact/#Child">
+				<i aria-hidden="true" class="far fa-folder"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<a href="https://sas.crewde.com/contact/#Child">
+						Childline					</a>
+				</h4>
+									<p class="elementor-icon-box-description">
+						These services are accessible 24 hours to children and adults with concerns about children and enable them to contact someone in emergencies					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e4d858e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4d858e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-baa67f9" data-id="baa67f9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8b351e7 elementor-view-stacked elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="8b351e7" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://sas.crewde.com/contact/#Crime">
+				<i aria-hidden="true" class="far fa-folder"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<a href="https://sas.crewde.com/contact/#Crime">
+						Crime Stop					</a>
+				</h4>
+									<p class="elementor-icon-box-description">
+						This call center can be contacted to anonymously report criminal activities					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4745c56" data-id="4745c56" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b11db17 elementor-view-stacked elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="b11db17" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://sas.crewde.com/contact/#GBV">
+				<i aria-hidden="true" class="far fa-folder"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<a href="https://sas.crewde.com/contact/#GBV">
+						Gender Based Violence Hotline					</a>
+				</h4>
+									<p class="elementor-icon-box-description">
+						The Gender-Based Violence Hotline aims to protect victims and survivors, prevent gender-based violence, develop a human rights culture and develop an initiative addressing gender-based violence					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
